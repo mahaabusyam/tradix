@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const axiosClient = axios.create({
   // الآن نقرأ من /mock، وعند وجود API حقيقي نضع VITE_API_URL في ملف .env
-  baseURL: import.meta.env.VITE_API_URL || '/mock',
+  baseURL: import.meta.env.VITE_API_URL || `${import.meta.env.BASE_URL}mock`,
   timeout: 10000,
 });
 
