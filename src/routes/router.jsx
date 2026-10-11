@@ -19,4 +19,6 @@ export const router = createBrowserRouter([
       { path: '*', element: <NotFound /> }, // أي رابط آخر
     ],
   },
-]);
+], {
+  basename: '/tradix',
+});
