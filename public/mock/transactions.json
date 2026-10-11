@@ -1,0 +1,20 @@
+[
+  { "id": "t18", "symbol": "NFLX", "name": "Netflix", "type": "buy", "quantity": 12, "price": 402.15, "date": "2026-10-09T10:24:00Z", "status": "completed" },
+  { "id": "t17", "symbol": "AAPL", "name": "Apple", "type": "sell", "quantity": 20, "price": 179.4, "date": "2026-10-08T14:02:00Z", "status": "completed" },
+  { "id": "t16", "symbol": "NVDA", "name": "NVIDIA", "type": "buy", "quantity": 8, "price": 481.9, "date": "2026-10-07T09:15:00Z", "status": "completed" },
+  { "id": "t15", "symbol": "TSLA", "name": "Tesla", "type": "sell", "quantity": 15, "price": 251.3, "date": "2026-10-06T16:40:00Z", "status": "pending" },
+  { "id": "t14", "symbol": "MSFT", "name": "Microsoft", "type": "buy", "quantity": 10, "price": 409.25, "date": "2026-10-05T11:08:00Z", "status": "completed" },
+  { "id": "t13", "symbol": "META", "name": "Meta", "type": "buy", "quantity": 18, "price": 288.1, "date": "2026-10-03T13:30:00Z", "status": "failed" },
+  { "id": "t12", "symbol": "AMZN", "name": "Amazon", "type": "buy", "quantity": 25, "price": 246.8, "date": "2026-10-02T15:12:00Z", "status": "completed" },
+  { "id": "t11", "symbol": "GOOGL", "name": "Alphabet", "type": "sell", "quantity": 12, "price": 166.75, "date": "2026-09-30T10:45:00Z", "status": "completed" },
+  { "id": "t10", "symbol": "AMD", "name": "AMD", "type": "buy", "quantity": 40, "price": 124.6, "date": "2026-09-28T09:55:00Z", "status": "completed" },
+  { "id": "t09", "symbol": "INTC", "name": "Intel", "type": "sell", "quantity": 60, "price": 37.4, "date": "2026-09-26T12:20:00Z", "status": "completed" },
+  { "id": "t08", "symbol": "ADBE", "name": "Adobe", "type": "buy", "quantity": 4, "price": 558.0, "date": "2026-09-24T14:35:00Z", "status": "pending" },
+  { "id": "t07", "symbol": "UBER", "name": "Uber", "type": "buy", "quantity": 30, "price": 69.9, "date": "2026-09-22T08:50:00Z", "status": "completed" },
+  { "id": "t06", "symbol": "NFLX", "name": "Netflix", "type": "sell", "quantity": 6, "price": 410.5, "date": "2026-09-20T17:05:00Z", "status": "completed" },
+  { "id": "t05", "symbol": "AAPL", "name": "Apple", "type": "buy", "quantity": 35, "price": 175.2, "date": "2026-09-18T10:10:00Z", "status": "completed" },
+  { "id": "t04", "symbol": "NVDA", "name": "NVIDIA", "type": "sell", "quantity": 5, "price": 470.3, "date": "2026-09-15T13:48:00Z", "status": "failed" },
+  { "id": "t03", "symbol": "MSFT", "name": "Microsoft", "type": "sell", "quantity": 7, "price": 405.0, "date": "2026-09-12T11:22:00Z", "status": "completed" },
+  { "id": "t02", "symbol": "AMZN", "name": "Amazon", "type": "sell", "quantity": 10, "price": 243.9, "date": "2026-09-10T15:58:00Z", "status": "completed" },
+  { "id": "t01", "symbol": "TSLA", "name": "Tesla", "type": "buy", "quantity": 22, "price": 238.4, "date": "2026-09-08T09:30:00Z", "status": "completed" }
+]

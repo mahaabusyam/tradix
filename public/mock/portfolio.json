@@ -1,0 +1,8 @@
+[
+  { "id": "nflx", "name": "Netflix", "symbol": "NFLX", "price": 416.03, "change": 2.37,
+    "history": [30, 22, 28, 26, 34, 24, 19] },
+  { "id": "meta", "name": "Meta", "symbol": "META", "price": 285.5, "change": -0.44,
+    "history": [18, 24, 34, 26, 28, 21, 30] },
+  { "id": "aapl", "name": "Apple", "symbol": "AAPL", "price": 178.61, "change": 1.36,
+    "history": [32, 22, 29, 26, 35, 24, 18] }
+]

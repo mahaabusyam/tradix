@@ -1,0 +1,14 @@
+[
+  { "id": "nflx", "symbol": "NFLX", "name": "Netflix", "price": 416.03, "change": 2.37, "volume": 4820000, "marketCap": 178000000000, "history": [28, 30, 27, 33, 31, 36, 35, 40] },
+  { "id": "amzn", "symbol": "AMZN", "name": "Amazon", "price": 251.64, "change": 2.09, "volume": 38200000, "marketCap": 2630000000000, "history": [20, 22, 21, 25, 24, 27, 26, 29] },
+  { "id": "aapl", "symbol": "AAPL", "name": "Apple", "price": 178.61, "change": 1.36, "volume": 54700000, "marketCap": 2780000000000, "history": [30, 29, 32, 31, 33, 32, 35, 36] },
+  { "id": "meta", "symbol": "META", "name": "Meta", "price": 285.5, "change": -0.44, "volume": 14900000, "marketCap": 730000000000, "history": [34, 32, 35, 31, 33, 30, 31, 29] },
+  { "id": "msft", "symbol": "MSFT", "name": "Microsoft", "price": 412.9, "change": 0.82, "volume": 22300000, "marketCap": 3070000000000, "history": [25, 26, 24, 27, 28, 27, 29, 30] },
+  { "id": "googl", "symbol": "GOOGL", "name": "Alphabet", "price": 164.3, "change": -1.12, "volume": 26100000, "marketCap": 2050000000000, "history": [36, 35, 37, 34, 33, 34, 31, 30] },
+  { "id": "nvda", "symbol": "NVDA", "name": "NVIDIA", "price": 498.7, "change": 3.64, "volume": 41500000, "marketCap": 1230000000000, "history": [18, 20, 23, 22, 27, 29, 33, 38] },
+  { "id": "tsla", "symbol": "TSLA", "name": "Tesla", "price": 242.1, "change": -2.85, "volume": 96800000, "marketCap": 770000000000, "history": [40, 38, 39, 35, 36, 32, 31, 27] },
+  { "id": "amd", "symbol": "AMD", "name": "AMD", "price": 128.4, "change": 1.91, "volume": 48600000, "marketCap": 207000000000, "history": [22, 21, 24, 23, 26, 25, 28, 30] },
+  { "id": "intc", "symbol": "INTC", "name": "Intel", "price": 36.9, "change": -0.73, "volume": 33400000, "marketCap": 156000000000, "history": [30, 31, 29, 30, 28, 29, 27, 27] },
+  { "id": "adbe", "symbol": "ADBE", "name": "Adobe", "price": 563.2, "change": 0.35, "volume": 2900000, "marketCap": 253000000000, "history": [26, 27, 26, 28, 27, 29, 28, 29] },
+  { "id": "uber", "symbol": "UBER", "name": "Uber", "price": 71.8, "change": 1.08, "volume": 17800000, "marketCap": 149000000000, "history": [21, 23, 22, 24, 23, 26, 25, 27] }
+]

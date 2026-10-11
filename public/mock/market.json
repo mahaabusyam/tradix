@@ -1,0 +1,7 @@
+[
+  { "id": 1, "symbol": "NFLX", "price": 416.03, "change": 2.37 },
+  { "id": 2, "symbol": "AMZN", "price": 251.64, "change": 2.09 },
+  { "id": 3, "symbol": "AAPL", "price": 178.61, "change": 1.36 },
+  { "id": 4, "symbol": "NFLX", "price": 416.03, "change": 0.25 },
+  { "id": 5, "symbol": "META", "price": 285.5, "change": -0.44 }
+]

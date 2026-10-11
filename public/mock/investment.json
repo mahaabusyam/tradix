@@ -1,0 +1,30 @@
+{
+  "day": {
+    "total": 10216.53,
+    "points": [
+      { "label": "09:00", "value": 9980 }, { "label": "10:00", "value": 10040 },
+      { "label": "11:00", "value": 9950 }, { "label": "12:00", "value": 10110 },
+      { "label": "13:00", "value": 10070 }, { "label": "14:00", "value": 10190 },
+      { "label": "15:00", "value": 10150 }, { "label": "16:00", "value": 10216.53 }
+    ]
+  },
+  "week": {
+    "total": 10216.53,
+    "points": [
+      { "label": "Mon", "value": 9800 }, { "label": "Tue", "value": 9920 },
+      { "label": "Wed", "value": 9760 }, { "label": "Thu", "value": 10050 },
+      { "label": "Fri", "value": 10216.53 }
+    ]
+  },
+  "month": {
+    "total": 10216.53,
+    "points": [
+      { "label": "Jan", "value": 9650 }, { "label": "Feb", "value": 9180 },
+      { "label": "Mar", "value": 9580 }, { "label": "Apr", "value": 9420 },
+      { "label": "May", "value": 9920 }, { "label": "Jun", "value": 9250 },
+      { "label": "Jul", "value": 8900 }, { "label": "Aug", "value": 9239.12 },
+      { "label": "Sep", "value": 9480 }, { "label": "Oct", "value": 9300 },
+      { "label": "Nov", "value": 9760 }, { "label": "Dec", "value": 9620 }
+    ]
+  }
+}
