@@ -20,5 +20,5 @@ export const router = createBrowserRouter([
     ],
   },
 ], {
-  basename: '/tradix',
+  basename: import.meta.env.BASE_URL,
 });
